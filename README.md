@@ -1,2 +1,2 @@
 # Correlation
-Utilizing pandas package within python to find correlation between movies and income.
+Utilizing pandas package within python to find correlation within a movie dataset.
